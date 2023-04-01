@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>talk on Sara Zapata-Marin Ph.D</title>
+    <link>/categories/talk/</link>
+    <description>Recent content in talk on Sara Zapata-Marin Ph.D</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 15 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QLS Seminar Series</title>
+      <link>/talk/qlsseminar/</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/qlsseminar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PhD Thesis defence</title>
+      <link>/talk/thesispresentation/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/thesispresentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QLS Research Day 2022</title>
+      <link>/talk/qlsresearchday/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/qlsresearchday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SOCAAR Seminar</title>
+      <link>/talk/socaar/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/socaar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
