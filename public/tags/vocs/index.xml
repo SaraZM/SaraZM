@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VOCs on Sara Zapata-Marin Ph.D</title>
+    <link>/tags/vocs/</link>
+    <description>Recent content in VOCs on Sara Zapata-Marin Ph.D</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/tags/vocs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VOCs in Montreal</title>
+      <link>/project/papervocs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/papervocs/</guid>
+      <description>Abstract Background:
+Volatile organic compounds (VOCs) are components of the complex mixture of air pollutants within cities and can cause various adverse health effects. Therefore, it is necessary to understand their spatial distribution for exposure assessment in epidemiological studies.
+Objectives:
+The objective was to model measured concentrations of five VOCs within the city of Montreal, Canada, developing spatial prediction models that can be used in health studies.
+Methods:
+We measured concentrations using 3M 3500 Organic Vapor Monitors, over 2-week periods, for three monitoring campaigns between 2005 and 2006 in over 130 locations in the city.</description>
+    </item>
+    
+  </channel>
+</rss>

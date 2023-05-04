@@ -25,5 +25,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Pollen</title>
+      <link>/tags/pollen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pollen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VOCs</title>
+      <link>/tags/vocs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vocs/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

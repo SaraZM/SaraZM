@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Sara Zapata-Marin Ph.D</title>
-    <link>/project/</link>
-    <description>Recent content in Projects on Sara Zapata-Marin Ph.D</description>
+    <title>Spatial Statistics on Sara Zapata-Marin Ph.D</title>
+    <link>/categories/spatial-statistics/</link>
+    <description>Recent content in Spatial Statistics on Sara Zapata-Marin Ph.D</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/categories/spatial-statistics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pollen distribution in Toronto</title>
       <link>/project/paperpollen/</link>

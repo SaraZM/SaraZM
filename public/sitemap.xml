@@ -132,8 +132,20 @@
   </url><url>
     <loc>/contributors/</loc>
   </url><url>
+    <loc>/categories/papers/</loc>
+  </url><url>
+    <loc>/tags/pollen/</loc>
+  </url><url>
+    <loc>/project/paperpollen/</loc>
+  </url><url>
     <loc>/project/</loc>
   </url><url>
     <loc>/resume/</loc>
+  </url><url>
+    <loc>/categories/spatial-statistics/</loc>
+  </url><url>
+    <loc>/tags/vocs/</loc>
+  </url><url>
+    <loc>/project/papervocs/</loc>
   </url>
 </urlset>

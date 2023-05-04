@@ -51,5 +51,31 @@ My content section is: blog My layout is: single-series Images in this page bund
       <description>** No content below YAML for the series _index. This file is a leaf bundle, and provides settings for the listing page layout and sidebar content.**</description>
     </item>
     
+    <item>
+      <title>Pollen distribution in Toronto</title>
+      <link>/project/paperpollen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/paperpollen/</guid>
+      <description>Abstract Background
+The exacerbation of asthma and respiratory allergies has been associated with exposure to aeroallergens such as pollen. Within an urban area, tree cover, level of urbanization, atmospheric conditions, and the number of source plants can influence spatiotemporal variations in outdoor pollen concentrations.
+Objective
+We analyze weekly pollen measurements made between March and October 2018 over 17 sites in Toronto, Canada. The main goals are: to estimate the concentration of different types of pollen across the season; estimate the association, if any, between pollen concentration and environmental variables, and provide a spatiotemporal surface of concentration of different types of pollen across the weeks in the studied period.</description>
+    </item>
+    
+    <item>
+      <title>VOCs in Montreal</title>
+      <link>/project/papervocs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/papervocs/</guid>
+      <description>Abstract Background:
+Volatile organic compounds (VOCs) are components of the complex mixture of air pollutants within cities and can cause various adverse health effects. Therefore, it is necessary to understand their spatial distribution for exposure assessment in epidemiological studies.
+Objectives:
+The objective was to model measured concentrations of five VOCs within the city of Montreal, Canada, developing spatial prediction models that can be used in health studies.
+Methods:
+We measured concentrations using 3M 3500 Organic Vapor Monitors, over 2-week periods, for three monitoring campaigns between 2005 and 2006 in over 130 locations in the city.</description>
+    </item>
+    
   </channel>
 </rss>
